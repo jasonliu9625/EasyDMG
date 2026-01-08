@@ -1,6 +1,6 @@
 # EasyDMG
 
-一个简洁优雅的 macOS 应用程序，用于快速创建专业的 DMG 安装包。
+一个简洁优雅的 macOS 原生应用程序，用于快速创建专业的 DMG 安装包。
 
 ![EasyDMG](https://img.shields.io/badge/Platform-macOS-blue) ![Swift](https://img.shields.io/badge/Swift-5.0+-orange) ![License](https://img.shields.io/badge/License-MIT-green)
 
@@ -128,18 +128,9 @@ A: 使用预览模式拖拽调整，或在设置中查看精确坐标
 ```
 
 
-## 📞 支持
-
-如果你觉得这个项目有用，请给它一个 ⭐️！
-
-### 💬 获取帮助
-- 报告 Bug: [Issues](https://github.com/sillyaboy/EasyDMG/issues)
-- 功能请求: [Issues](https://github.com/sillyaboy/EasyDMG/issues)
-- 讨论: [Discussions](https://github.com/sillyaboy/EasyDMG/discussions)
-
 ### ☕️ 支持开发
 
-如果这个项目对你有帮助，可以请我喝杯咖啡支持开发：
+如果这个项目对你有帮助，请给它一个 ⭐️！也可以请我喝杯咖啡支持开发：
 
 <div align="center">
 <a href="https://ko-fi.com/huatingliu">
